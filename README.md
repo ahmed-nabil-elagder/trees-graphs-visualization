@@ -23,7 +23,7 @@ Its a reference to visualize some of core concepts of **Trees** and **Graphs** d
 
 ## Graph Search - visualization  
 For simplicity, we will visualize over Trees as Trees are special subtype of Graghs  
-*Trees are already Graph but without CYCLES*
+*Trees are already Graphs but without CYCLES*
 
 	DFS (Depth First Search)
 		1. [[ traverse current node ]]
