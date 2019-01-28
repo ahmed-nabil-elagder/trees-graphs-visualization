@@ -2,7 +2,7 @@
 Its a reference to visualize some of core concepts of **Trees** and **Graphs** data structures  
 
 
-## Trees Traversals visualization  
+## Trees Traversals - visualization  
 	PreOrderTravesal
 		1. [[ traverse current node ]]
 		2. traverse left tree
@@ -20,4 +20,24 @@ Its a reference to visualize some of core concepts of **Trees** and **Graphs** d
 
 
 
+
+## Graph Search - visualization  
+For simplicity, we will visualize over Trees as Trees are special subtype of Graghs  
+*Trees are already Graph but without CYCLES*
+
+	DFS (Depth First Search)
+		1. [[ traverse current node ]]
+		2. [[ mark current node as visited ]]
+		3. For Each NON-Visited neighbors 
+			=> visit it (Recursion)
+	BFS (Breadth First Search)
+		1.  Enqueue root node into a Queue
+		2.  While Queue is not empty => (Iterative)
+			2.1 Dequeue Queue - current node
+			2.2 [[ traverse current node ]]
+			2.3 [[ mark current node as visited ]]
+			2.4 For Each NON-Visited neighbors 
+				=> Enqueue into Queue
+
+<img src="https://github.com/ahmednabil88/trees-graphs-visualization/blob/master/Graph%20Search/Graph%20Search.gif" >
 
