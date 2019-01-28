@@ -2,6 +2,11 @@
 Its a reference to visualize some of core concepts of **Trees** and **Graphs** data structures  
 
 
+
+## Normal Tree vs Programming Tree - visualization  
+<img src="https://github.com/ahmednabil88/trees-graphs-visualization/blob/master/Trees%20-%20Normal%20Tree%20vs%20Programming%20Tree/Normal%20Tree%20vs%20Programming%20Tree.gif" >  
+
+
 ## Trees Traversals - visualization  
 	PreOrderTravesal
 		1. [[ traverse current node ]]
