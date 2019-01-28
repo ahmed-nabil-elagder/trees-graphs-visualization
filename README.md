@@ -1,4 +1,4 @@
-# trees-graphs-visualize
+# trees-graphs-visualization
 Its a reference to visualize some of core concepts of **Trees** and **Graphs** data structures  
 
 
