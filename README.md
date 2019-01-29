@@ -6,6 +6,16 @@ Its a reference to visualize some of core concepts of **Trees** and **Graphs** d
 ## Normal Tree vs Programming Tree - visualization  
 <img src="https://github.com/ahmednabil88/trees-graphs-visualization/blob/master/Trees%20-%20Normal%20Tree%20vs%20Programming%20Tree/Normal%20Tree%20vs%20Programming%20Tree.gif" >  
 
+## Difference between (Node Depth) and (Node High) - visualization  
+	The Depth of a node
+		1. Is the number of edges from the node to the tree's root node
+		2. Root node will have a Depth of 0
+	The Height of a node
+		1. Is the number of edges on the longest path from the node to a leaf
+		2. Leaf node(s) will have a Height of 0
+		
+<img src="https://github.com/ahmednabil88/trees-graphs-visualization/blob/master/Trees%20-%20Node%20Depth%20vs%20Node%20High/Trees%20-%20Node%20Depth%20vs%20Node%20High.gif" >  
+
 
 ## Trees Traversals - visualization  
 	PreOrderTravesal
