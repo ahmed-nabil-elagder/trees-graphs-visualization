@@ -45,6 +45,7 @@ For simplicity, we will visualize over Trees as Trees are special subtype of Gra
 		2. [[ mark current node as visited ]]
 		3. For Each NON-Visited neighbors 
 			=> visit it (Recursion)
+			Note: DFS can be also impleminted by Stack (Iterative)
 	BFS (Breadth First Search)
 		1.  Enqueue root node into a Queue
 		2.  While Queue is not empty => (Iterative)
