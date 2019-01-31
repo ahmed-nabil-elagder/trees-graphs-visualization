@@ -16,6 +16,12 @@ Its a reference to visualize some of core concepts of **Trees** and **Graphs** d
 		
 <img src="https://github.com/ahmednabil88/trees-graphs-visualization/blob/master/Trees%20-%20Node%20Depth%20vs%20Node%20High/Trees%20-%20Node%20Depth%20vs%20Node%20High.gif" >  
 
+## Graph data structure representation - visualization  
+	In terms of programming, there are two common ways to represent a graph.
+		1. By Adjacency List
+		2. By Adjacency Matrix
+		
+<img src="https://github.com/ahmednabil88/trees-graphs-visualization/blob/master/Graph%20-%20Adjacency%20List%20vs%20Adjacency%20Matrix/Graph%20-%20Adjacency%20List%20vs%20Adjacency%20Matrix.gif" >
 
 ## Trees Traversals - visualization  
 	PreOrderTravesal
@@ -32,9 +38,6 @@ Its a reference to visualize some of core concepts of **Trees** and **Graphs** d
 		3. [[ traverse current node ]]
 
 <img src="https://github.com/ahmednabil88/trees-graphs-visualize/blob/master/Trees%20Traversals/Pre-In-Post%20Traversal.gif" >
-
-
-
 
 ## Graph Search - visualization  
 For simplicity, we will visualize over Trees as Trees are special subtype of Graghs  
@@ -56,4 +59,5 @@ For simplicity, we will visualize over Trees as Trees are special subtype of Gra
 				=> Enqueue into Queue
 
 <img src="https://github.com/ahmednabil88/trees-graphs-visualization/blob/master/Graph%20Search/Graph%20Search.gif" >
+
 
